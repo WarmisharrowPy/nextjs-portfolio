@@ -30,7 +30,7 @@ export const Footer = () => {
         </p>
 
         <Link
-          href={`Resume.pdf`}
+          href={`https://drive.google.com/file/d/1xiYEsRtXbp6-iFVc_gO4bHJZVcaeyuNg/view?usp=drive_link`}
           target="_blank"
           rel="noreferrer noopener"
           className="md:mt-10"
